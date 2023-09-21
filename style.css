@@ -63,7 +63,7 @@ body {
   }
 }
 
-@media all and (aspect-ratio: 820/1106) {
+@media all and (aspect-ratio: 820/1180) {
   #ratio {
     display: none;
   }
@@ -111,7 +111,7 @@ body {
   top: 0;
 }
 
-@media all and (aspect-ratio: 820/1106) {
+@media all and (aspect-ratio: 820/1180) {
   .topComponent {
     top: -6%;
   }
@@ -178,7 +178,7 @@ body {
   z-index: 2;
 }
 
-@media all and (aspect-ratio: 820/1106) {
+@media all and (aspect-ratio: 820/1180) {
   .window h1 {
     top: 21.3vh;
     left: 10.749vw;
@@ -195,7 +195,7 @@ body {
   z-index: 2;
 }
 
-@media all and (aspect-ratio: 820/1106) {
+@media all and (aspect-ratio: 820/1180) {
   .window2 h1 {
     top: 21.3vh;
     left: 10.749vw;
@@ -342,7 +342,7 @@ body {
   z-index: 3;
 }
 
-@media all and (aspect-ratio: 820/1106) {
+@media all and (aspect-ratio: 820/1180) {
   #blackHallBox {
     width: 8.285vw;
     height: 8.285vw;
@@ -469,7 +469,7 @@ body {
   transition: all 0.6s ease-in-out;
 }
 
-@media all and (aspect-ratio: 820/1106) {
+@media all and (aspect-ratio: 820/1180) {
   #eyes {
     transform: translateY(36vh);
   }
@@ -639,7 +639,7 @@ body {
   align-items: center;
 }
 
-@media all and (aspect-ratio: 820/1106) {
+@media all and (aspect-ratio: 820/1180) {
   #secondPage .talkBox {
     width: 24vw;
     height: 24vw;
@@ -667,7 +667,7 @@ body {
   height: auto;
 }
 
-@media all and (aspect-ratio: 820/1106) {
+@media all and (aspect-ratio: 820/1180) {
   #secondPage .talkBox img {
     width: 2.545vw;
   }
@@ -685,7 +685,7 @@ body {
   font-weight: 300;
 }
 
-@media all and (aspect-ratio: 820/1106) {
+@media all and (aspect-ratio: 820/1180) {
   #secondPage .talkBox .talks h2 {
     font-size: 2vw;
   }
@@ -730,7 +730,7 @@ body {
   transition: all 0.6s ease-in;
 }
 
-@media all and (aspect-ratio: 820/1106) {
+@media all and (aspect-ratio: 820/1180) {
   #qrCode #closeButton {
     width: 50%;
     height: auto;
@@ -760,7 +760,7 @@ body {
   position: absolute;
 }
 
-@media all and (aspect-ratio: 820/1106) {
+@media all and (aspect-ratio: 820/1180) {
   #membershipCharacter {
     transform: translateY(8vh);
   }
@@ -897,7 +897,7 @@ body {
   bottom: 6%;
 }
 
-@media all and (aspect-ratio: 820/1106) {
+@media all and (aspect-ratio: 820/1180) {
   .warningCharacter {
     right: -24%;
     bottom: 0%;
@@ -911,7 +911,7 @@ body {
   left: 12%;
 }
 
-@media all and (aspect-ratio: 820/1106) {
+@media all and (aspect-ratio: 820/1180) {
   #membershipTalk h1 {
     font-size: 1.239vw;
   }
@@ -950,7 +950,7 @@ body {
   opacity: 0.6;
 }
 
-@media all and (aspect-ratio: 820/1106) {
+@media all and (aspect-ratio: 820/1180) {
   #membershipTalk {
     width: 28.824vw;
     height: 16.374vw;
@@ -971,7 +971,7 @@ body {
   transform: rotateY(180deg) translate(-5.5vw, -3.2vw);
 }
 
-@media all and (aspect-ratio: 820/1106) {
+@media all and (aspect-ratio: 820/1180) {
   #membershipEnd {
     width: 8%;
     height: auto;
@@ -999,7 +999,7 @@ body {
   border-radius: 100%;
 }
 
-@media all and (aspect-ratio: 820/1106) {
+@media all and (aspect-ratio: 820/1180) {
   #membershipStanding {
     width: 40%;
     height: auto;
@@ -1016,7 +1016,7 @@ body {
   height: auto;
 }
 
-@media all and (aspect-ratio: 820/1106) {
+@media all and (aspect-ratio: 820/1180) {
   #membershipQr {
     bottom: 39.8%;
   }
@@ -1044,7 +1044,7 @@ body {
   z-index: 4;
 }
 
-@media all and (aspect-ratio: 820/1106) {
+@media all and (aspect-ratio: 820/1180) {
   #videoBox02 {
     height: 600px;
   }
@@ -1119,7 +1119,7 @@ body {
   bottom: 0;
 }
 
-@media all and (aspect-ratio: 820/1106) {
+@media all and (aspect-ratio: 820/1180) {
   #clothCharacter {
     bottom: -8vh;
   }
@@ -1146,7 +1146,7 @@ body {
   transition: all 0.9s ease-in-out;
 }
 
-@media all and (aspect-ratio: 820/1106) {
+@media all and (aspect-ratio: 820/1180) {
   .chTalk {
     margin-top: 8.2vw;
   }
@@ -1175,7 +1175,7 @@ body {
   word-break: break-all;
 }
 
-@media all and (aspect-ratio: 820/1106) {
+@media all and (aspect-ratio: 820/1180) {
   #chTalk div {
     width: 32vw;
     height: 16vw;
@@ -1237,7 +1237,7 @@ body {
   overflow-x: auto;
 }
 
-@media all and (aspect-ratio: 820/1106) {
+@media all and (aspect-ratio: 820/1180) {
   .clothesBox {
     margin-bottom: 4vh;
   }
@@ -1257,7 +1257,7 @@ body {
   overflow: hidden;
 }
 
-@media all and (aspect-ratio: 820/1106) {
+@media all and (aspect-ratio: 820/1180) {
   .flexBox {
     gap: 3.2vw;
   }
@@ -1428,7 +1428,7 @@ body {
   align-items: center;
 }
 
-@media all and (aspect-ratio: 820/1106) {
+@media all and (aspect-ratio: 820/1180) {
   .shoesTalk {
     width: 41.069vw;
     height: 20.712vw;
@@ -1464,7 +1464,7 @@ body {
   z-index: 2;
 }
 
-@media all and (aspect-ratio: 820/1106) {
+@media all and (aspect-ratio: 820/1180) {
   .shoesCharacter {
     top: 19.3vh;
   }
@@ -1494,7 +1494,7 @@ body {
   overflow: hidden;
 }
 
-@media all and (aspect-ratio: 820/1106) {
+@media all and (aspect-ratio: 820/1180) {
   #touchPreventionBox {
     margin-bottom: 10vh;
   }
@@ -1513,7 +1513,7 @@ body {
   opacity: 0;
 }
 
-/* @media all and (aspect-ratio: 820/1106) {
+/* @media all and (aspect-ratio: 820/1180) {
   #mapButton {
     margin-bottom: 12.5vw;
   }
@@ -1531,7 +1531,7 @@ body {
   background-color: black;
 }
 
-@media all and (aspect-ratio: 820/1106) {
+@media all and (aspect-ratio: 820/1180) {
   .shoesButton {
     width: 32.712vw;
     height: 32.712vw;
@@ -1545,7 +1545,7 @@ body {
   justify-content: end;
 }
 
-@media all and (aspect-ratio: 820/1106) {
+@media all and (aspect-ratio: 820/1180) {
   #leftButton01 {
     transform: translateX(-16.356vw);
   }
@@ -1561,7 +1561,7 @@ body {
   justify-content: start;
 }
 
-@media all and (aspect-ratio: 820/1106) {
+@media all and (aspect-ratio: 820/1180) {
   #rightButton01 {
     transform: translateX(16.356vw);
   }
@@ -1647,7 +1647,7 @@ body {
   margin-bottom: 160px;
 }
 
-@media all and (aspect-ratio: 820/1106) {
+@media all and (aspect-ratio: 820/1180) {
   .shoesBox:nth-child(2) {
     margin-bottom: 40px;
   }
@@ -1690,7 +1690,7 @@ body {
   opacity: 0;
 }
 
-@media all and (aspect-ratio: 820/1106) {
+@media all and (aspect-ratio: 820/1180) {
   .shoes p {
     width: 200%;
     transform-origin: top center;
@@ -1727,7 +1727,7 @@ body {
   align-items: center;
 }
 
-@media all and (aspect-ratio: 820/1106) {
+@media all and (aspect-ratio: 820/1180) {
 }
 
 #mapimgBox {
@@ -1764,7 +1764,7 @@ body {
   transition: all 0.6s ease-in;
 }
 
-@media all and (aspect-ratio: 820/1106) {
+@media all and (aspect-ratio: 820/1180) {
   .shoesinfoBox {
     top: 7.5%;
     height: 62.569vw;
@@ -1793,7 +1793,7 @@ body {
   margin-top: 3.394vw;
 }
 
-@media all and (aspect-ratio: 820/1106) {
+@media all and (aspect-ratio: 820/1180) {
   #shoesinfo {
     width: 40.969vw;
   }
@@ -1911,13 +1911,13 @@ body {
   transform: translateX(8vw);
 }
 
-@media all and (aspect-ratio: 820/1106) {
+@media all and (aspect-ratio: 820/1180) {
   #shoesCharacter {
     bottom: -7%;
   }
 }
 
-@media all and (aspect-ratio: 820/1106) {
+@media all and (aspect-ratio: 820/1180) {
   #shoesCharacter #videoShoes {
     width: 50%;
   }
@@ -1931,7 +1931,7 @@ body {
   z-index: -1;
 }
 
-@media all and (aspect-ratio: 820/1106) {
+@media all and (aspect-ratio: 820/1180) {
   #videoShoesTalk {
     left: 12%;
     top: 8%;
@@ -1943,7 +1943,7 @@ body {
   height: 24.499vw;
 }
 
-@media all and (aspect-ratio: 820/1106) {
+@media all and (aspect-ratio: 820/1180) {
   #videoshTalk {
     width: 34.033vw;
     height: 14.499vw;
@@ -1957,7 +1957,7 @@ body {
   bottom: 4.9%;
 }
 
-@media all and (aspect-ratio: 820/1106) {
+@media all and (aspect-ratio: 820/1180) {
   #videoShoesTalkEnd {
     bottom: 7%;
   }

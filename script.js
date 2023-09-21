@@ -4,7 +4,7 @@ window.onload = function () {
 
   let heightCheck = document.getElementById("heightCheck");
   heightCheck.innerHTML = window.screen.height;
-  if (window.screen.width / window.screen.height >= 820 / 1106) {
+  if (window.screen.width / window.screen.height >= 820 / 1180) {
     console.log("아이패드 화면 비율입니다.");
 
     let URL = "https://teachablemachine.withgoogle.com/models/3zs0J62G_/";
