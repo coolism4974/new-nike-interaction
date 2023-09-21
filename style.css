@@ -46,6 +46,14 @@ body {
   }
 }
 
+#ratioHeight {
+  position: absolute;
+  font-size: 200px;
+  z-index: 40;
+  font-weight: bold;
+  color: #333;
+}
+
 @media all and (device-aspect-ratio: 820/1080) {
   #ratio {
     display: none;

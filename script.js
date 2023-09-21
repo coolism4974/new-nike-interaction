@@ -1,4 +1,6 @@
 window.onload = function () {
+  let ratioHeight = document.getElementById("ratioHeight");
+  ratioHeight.innerHTML = window.screen.height;
   if (window.innerWidth / window.innerHeight >= 820 / 1000) {
     console.log("아이패드 화면 비율입니다.");
 
