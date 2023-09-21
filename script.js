@@ -1,10 +1,5 @@
 window.onload = function () {
-  let widthCheck = document.getElementById("widthCheck");
-  widthCheck.innerHTML = window.innerWidth;
-
-  let heightCheck = document.getElementById("heightCheck");
-  heightCheck.innerHTML = window.innerHeight;
-  if (window.innerWidth / window.innerHeight >= 820 / 1180) {
+  if (window.innerWidth / window.innerHeight >= 820 / 1000) {
     console.log("아이패드 화면 비율입니다.");
 
     let URL = "https://teachablemachine.withgoogle.com/models/3zs0J62G_/";
@@ -21,24 +16,24 @@ window.onload = function () {
     let characterShadow = document.getElementsByClassName("characterShadow");
 
     characterShadow[0].style.left = "16%";
-    characterShadow[0].style.top = "-59.5%";
+    characterShadow[0].style.top = "-73.5%";
     characterShadow[0].style.width = "11vw";
     characterShadow[0].style.height = "1.5vw";
 
     characterShadow[1].style.left = "32%";
-    characterShadow[1].style.top = "-42%";
+    characterShadow[1].style.top = "-54%";
     characterShadow[1].style.width = "16vw";
 
     characterShadow[2].style.left = "46%";
-    characterShadow[2].style.top = "-64.5%";
+    characterShadow[2].style.top = "-76.5%";
     characterShadow[2].style.width = "16vw";
 
     characterShadow[3].style.right = "24%";
-    characterShadow[3].style.top = "-62%";
+    characterShadow[3].style.top = "-76%";
     characterShadow[3].style.width = "16vw";
 
     characterShadow[4].style.right = "6%";
-    characterShadow[4].style.top = "-45%";
+    characterShadow[4].style.top = "-58%";
     characterShadow[4].style.width = "16vw";
 
     let pages = document.getElementsByClassName("pages");
@@ -188,7 +183,7 @@ window.onload = function () {
           arm.classList.remove("armClass");
         });
         setTimeout(() => {
-          eyes.style.transform = "translateY(36vh)";
+          eyes.style.transform = "translateY(40vh)";
           arm.style.transform = "translate(-28vw, 0) scale(2)";
         }, 1500);
       }, 3000);
@@ -1555,7 +1550,7 @@ window.onload = function () {
             shoesPositionX +
             "px," +
             shoesPositionY +
-            "px) scale(4)";
+            "px) scale(3.5)";
           shoesImg[q].style.transform = " translateY(2vw) scale(0.5)";
 
           let touchPrevention =
@@ -1675,7 +1670,7 @@ window.onload = function () {
                 "translateY(-" +
                 (touchPreventionBox.clientHeight / 2 -
                   showBox.clientHeight / 2) +
-                "px) scale(12)";
+                "px) scale(14)";
               mapimg.style.opacity = "1";
               mapimgText.style.opacity = "1";
             }, 1000);
