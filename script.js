@@ -1,4 +1,9 @@
 window.onload = function () {
+  let widthCheck = document.getElementById("widthCheck");
+  widthCheck.innerHTML = window.screen.width;
+
+  let heightCheck = document.getElementById("heightCheck");
+  heightCheck.innerHTML = window.screen.height;
   if (window.screen.width / window.screen.height >= 820 / 1106) {
     console.log("아이패드 화면 비율입니다.");
 
@@ -112,12 +117,6 @@ window.onload = function () {
       "러닝할 때 러닝화를 신어야 하냐고?<br>신고 안신고의 차이! <br>이번기회에 느껴보는게 어때?",
       "무조건 비싸다고 좋은게 아니라는 말씀!<br>자신한테 꼭 맞는 러닝화를 찾아보는게 어때?",
     ];
-
-    let widthCheck = document.getElementById("widthCheck");
-    widthCheck.innerHTML = window.screen.width;
-
-    let heightCheck = document.getElementById("heightCheck");
-    heightCheck.innerHTML = window.screen.height;
 
     //////////////////////////////////////////////////////////////////////////////////////////////////////// 뒤로가기 애니메이션
 
