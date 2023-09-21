@@ -16,6 +16,23 @@ body {
   font-family: "Noto Sans KR", sans-serif;
 }
 
+#widthCheck {
+  z-index: 20;
+  position: absolute;
+  font-size: 120px;
+  margin-left: 2vw;
+  color: white;
+}
+
+#heightCheck {
+  z-index: 20;
+  position: absolute;
+  right: 0;
+  font-size: 120px;
+  margin-right: 2vw;
+  color: white;
+}
+
 #bigbox {
   width: 100vw;
   height: 100vh;

@@ -113,6 +113,12 @@ window.onload = function () {
       "무조건 비싸다고 좋은게 아니라는 말씀!<br>자신한테 꼭 맞는 러닝화를 찾아보는게 어때?",
     ];
 
+    let widthCheck = document.getElementById("widthCheck");
+    widthCheck.innerHTML = window.screen.width;
+
+    let heightCheck = document.getElementById("heightCheck");
+    heightCheck.innerHTML = window.screen.height;
+
     //////////////////////////////////////////////////////////////////////////////////////////////////////// 뒤로가기 애니메이션
 
     let backButtons = document.getElementsByClassName("backBox");
