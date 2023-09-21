@@ -17,20 +17,20 @@ body {
 }
 
 #widthCheck {
-  z-index: 20;
+  z-index: 30;
   position: absolute;
   font-size: 120px;
   margin-left: 2vw;
-  color: white;
+  color: black;
 }
 
 #heightCheck {
-  z-index: 20;
+  z-index: 30;
   position: absolute;
   right: 0;
   font-size: 120px;
   margin-right: 2vw;
-  color: white;
+  color: black;
 }
 
 #bigbox {
